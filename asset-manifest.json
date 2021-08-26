@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boioboi16/IMDB-Clone/static/css/main.289c1fa7.chunk.css",
+    "main.js": "/boioboi16/IMDB-Clone/static/js/main.33eeb9b4.chunk.js",
+    "main.js.map": "/boioboi16/IMDB-Clone/static/js/main.33eeb9b4.chunk.js.map",
+    "runtime-main.js": "/boioboi16/IMDB-Clone/static/js/runtime-main.8e454b7c.js",
+    "runtime-main.js.map": "/boioboi16/IMDB-Clone/static/js/runtime-main.8e454b7c.js.map",
+    "static/js/2.33260d0b.chunk.js": "/boioboi16/IMDB-Clone/static/js/2.33260d0b.chunk.js",
+    "static/js/2.33260d0b.chunk.js.map": "/boioboi16/IMDB-Clone/static/js/2.33260d0b.chunk.js.map",
+    "index.html": "/boioboi16/IMDB-Clone/index.html",
+    "precache-manifest.0f9a5b6284e8ceac03c79881f2e5382e.js": "/boioboi16/IMDB-Clone/precache-manifest.0f9a5b6284e8ceac03c79881f2e5382e.js",
+    "service-worker.js": "/boioboi16/IMDB-Clone/service-worker.js",
+    "static/css/main.289c1fa7.chunk.css.map": "/boioboi16/IMDB-Clone/static/css/main.289c1fa7.chunk.css.map",
+    "static/js/2.33260d0b.chunk.js.LICENSE.txt": "/boioboi16/IMDB-Clone/static/js/2.33260d0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e454b7c.js",
+    "static/js/2.33260d0b.chunk.js",
+    "static/css/main.289c1fa7.chunk.css",
+    "static/js/main.33eeb9b4.chunk.js"
+  ]
+}
