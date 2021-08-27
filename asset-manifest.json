@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/boioboi16/IMDB-Clone/static/css/main.289c1fa7.chunk.css",
-    "main.js": "/boioboi16/IMDB-Clone/static/js/main.68eb3d01.chunk.js",
-    "main.js.map": "/boioboi16/IMDB-Clone/static/js/main.68eb3d01.chunk.js.map",
-    "runtime-main.js": "/boioboi16/IMDB-Clone/static/js/runtime-main.8e454b7c.js",
-    "runtime-main.js.map": "/boioboi16/IMDB-Clone/static/js/runtime-main.8e454b7c.js.map",
-    "static/js/2.45e02604.chunk.js": "/boioboi16/IMDB-Clone/static/js/2.45e02604.chunk.js",
-    "static/js/2.45e02604.chunk.js.map": "/boioboi16/IMDB-Clone/static/js/2.45e02604.chunk.js.map",
-    "index.html": "/boioboi16/IMDB-Clone/index.html",
-    "precache-manifest.854db54f83c73b50cbc46ee990bd19f8.js": "/boioboi16/IMDB-Clone/precache-manifest.854db54f83c73b50cbc46ee990bd19f8.js",
-    "service-worker.js": "/boioboi16/IMDB-Clone/service-worker.js",
-    "static/css/main.289c1fa7.chunk.css.map": "/boioboi16/IMDB-Clone/static/css/main.289c1fa7.chunk.css.map",
-    "static/js/2.45e02604.chunk.js.LICENSE.txt": "/boioboi16/IMDB-Clone/static/js/2.45e02604.chunk.js.LICENSE.txt"
+    "main.css": "/IMDB-Clone/static/css/main.289c1fa7.chunk.css",
+    "main.js": "/IMDB-Clone/static/js/main.68eb3d01.chunk.js",
+    "main.js.map": "/IMDB-Clone/static/js/main.68eb3d01.chunk.js.map",
+    "runtime-main.js": "/IMDB-Clone/static/js/runtime-main.0777e059.js",
+    "runtime-main.js.map": "/IMDB-Clone/static/js/runtime-main.0777e059.js.map",
+    "static/js/2.45e02604.chunk.js": "/IMDB-Clone/static/js/2.45e02604.chunk.js",
+    "static/js/2.45e02604.chunk.js.map": "/IMDB-Clone/static/js/2.45e02604.chunk.js.map",
+    "index.html": "/IMDB-Clone/index.html",
+    "precache-manifest.6afaae38c6b161e459c5a5803f4dc36f.js": "/IMDB-Clone/precache-manifest.6afaae38c6b161e459c5a5803f4dc36f.js",
+    "service-worker.js": "/IMDB-Clone/service-worker.js",
+    "static/css/main.289c1fa7.chunk.css.map": "/IMDB-Clone/static/css/main.289c1fa7.chunk.css.map",
+    "static/js/2.45e02604.chunk.js.LICENSE.txt": "/IMDB-Clone/static/js/2.45e02604.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e454b7c.js",
+    "static/js/runtime-main.0777e059.js",
     "static/js/2.45e02604.chunk.js",
     "static/css/main.289c1fa7.chunk.css",
     "static/js/main.68eb3d01.chunk.js"
