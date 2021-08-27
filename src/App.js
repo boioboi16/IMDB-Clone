@@ -6,7 +6,7 @@ import Movie from './SingleMovie'
 
 function App() {
   return <Switch>
-    <Route exact path ="/IMDB-Clone/" exact>
+    <Route exact path ="IMDB-Clone/" exact>
       <Home></Home>
     </Route>
     <Route exact path="/IMDB-Clone/movies/:id" children={<Movie></Movie>}>
