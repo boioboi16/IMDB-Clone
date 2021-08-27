@@ -6,10 +6,10 @@ import Movie from './SingleMovie'
 
 function App() {
   return <Switch>
-    <Route path ="/" exact>
+    <Route path ="/boioboi16/IMDB-Clone/" exact>
       <Home></Home>
     </Route>
-    <Route path="/movies/:id" children={<Movie></Movie>}>
+    <Route path="/boioboi16/IMDB-Clone/movies/:id" children={<Movie></Movie>}>
 
     </Route>
   </Switch> 
