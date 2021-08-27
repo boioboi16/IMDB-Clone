@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f86032f7c71f67b039c8e779e1b6dd6",
+    "revision": "debea8c66d6ff84c0485266469e11c4a",
     "url": "/boioboi16/IMDB-Clone/index.html"
   },
   {
-    "revision": "abaea1a61fe49188d504",
+    "revision": "11502752e440fa08b995",
     "url": "/boioboi16/IMDB-Clone/static/css/main.289c1fa7.chunk.css"
   },
   {
-    "revision": "290aa4f4295c4e36967e",
-    "url": "/boioboi16/IMDB-Clone/static/js/2.33260d0b.chunk.js"
+    "revision": "ad498c4f0739119d3589",
+    "url": "/boioboi16/IMDB-Clone/static/js/2.45e02604.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boioboi16/IMDB-Clone/static/js/2.33260d0b.chunk.js.LICENSE.txt"
+    "url": "/boioboi16/IMDB-Clone/static/js/2.45e02604.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abaea1a61fe49188d504",
-    "url": "/boioboi16/IMDB-Clone/static/js/main.33eeb9b4.chunk.js"
+    "revision": "11502752e440fa08b995",
+    "url": "/boioboi16/IMDB-Clone/static/js/main.68eb3d01.chunk.js"
   },
   {
     "revision": "fece043359258e62f946",
