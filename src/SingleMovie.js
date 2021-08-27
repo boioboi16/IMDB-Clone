@@ -29,7 +29,7 @@ return <div className="loading"></div>
   if(error.show){
     return <div className="page-error">
       <h1>{error.msg}</h1>
-      <Link to='/boioboi16/IMDB-Clone/' className='btn'>Back To Movies</Link>
+      <Link to='/IMDB-Clone/' className='btn'>Back To Movies</Link>
     </div>
   }
   const {Poster:poster,Title:title,Plot:plot,Year:year} = movie;
@@ -39,7 +39,7 @@ return <div className="loading"></div>
   <h2>{title}</h2>
   <p>{plot}</p>
   <h4>{year}</h4>
-  <Link to='/boioboi16/IMDB-Clone/' className='btn'>Back To Movies</Link>
+  <Link to='/IMDB-Clone/' className='btn'>Back To Movies</Link>
 </div>
   </section>
 }
