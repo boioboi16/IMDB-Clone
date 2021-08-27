@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IMDB-Clone/static/css/main.289c1fa7.chunk.css",
-    "main.js": "/IMDB-Clone/static/js/main.68eb3d01.chunk.js",
-    "main.js.map": "/IMDB-Clone/static/js/main.68eb3d01.chunk.js.map",
+    "main.js": "/IMDB-Clone/static/js/main.d5424822.chunk.js",
+    "main.js.map": "/IMDB-Clone/static/js/main.d5424822.chunk.js.map",
     "runtime-main.js": "/IMDB-Clone/static/js/runtime-main.0777e059.js",
     "runtime-main.js.map": "/IMDB-Clone/static/js/runtime-main.0777e059.js.map",
     "static/js/2.45e02604.chunk.js": "/IMDB-Clone/static/js/2.45e02604.chunk.js",
     "static/js/2.45e02604.chunk.js.map": "/IMDB-Clone/static/js/2.45e02604.chunk.js.map",
     "index.html": "/IMDB-Clone/index.html",
-    "precache-manifest.6afaae38c6b161e459c5a5803f4dc36f.js": "/IMDB-Clone/precache-manifest.6afaae38c6b161e459c5a5803f4dc36f.js",
+    "precache-manifest.66c6fcee5dcc139f84884bfa75ca1e13.js": "/IMDB-Clone/precache-manifest.66c6fcee5dcc139f84884bfa75ca1e13.js",
     "service-worker.js": "/IMDB-Clone/service-worker.js",
     "static/css/main.289c1fa7.chunk.css.map": "/IMDB-Clone/static/css/main.289c1fa7.chunk.css.map",
     "static/js/2.45e02604.chunk.js.LICENSE.txt": "/IMDB-Clone/static/js/2.45e02604.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0777e059.js",
     "static/js/2.45e02604.chunk.js",
     "static/css/main.289c1fa7.chunk.css",
-    "static/js/main.68eb3d01.chunk.js"
+    "static/js/main.d5424822.chunk.js"
   ]
 }
